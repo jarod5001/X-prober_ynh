@@ -19,7 +19,7 @@ It shall NOT be edited by hand.
 This is a probe program for PHP environment. It can show your server information and readable easily.
 
 
-**Shipped version:** 8.18~ynh1
+**Shipped version:** 8.19~ynh1
 
 **Demo:** <https://prober.inn-studio.com/>
 

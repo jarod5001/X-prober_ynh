@@ -19,7 +19,7 @@ Il NE doit PAS être modifié à la main.
 Il s'agit d'un programme de sonde pour l'environnement PHP. Il peut afficher les informations de votre serveur et être facilement lisible.
 
 
-**Version incluse :** 8.18~ynh1
+**Version incluse :** 8.19~ynh1
 
 **Démo :** <https://prober.inn-studio.com/>
 

@@ -19,7 +19,7 @@
 This is a probe program for PHP environment. It can show your server information and readable easily.
 
 
-**分发版本：** 8.18~ynh1
+**分发版本：** 8.19~ynh1
 
 **演示：** <https://prober.inn-studio.com/>
 
